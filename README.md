@@ -10,7 +10,7 @@ https://github.com/EloiStree/HelloSteamFrame
   - ESP32
   - Raspberry Pi Pico Wifi
   - Arduino Leonardo (with HC06 or HC10)
-  - None ( use Software [XOMI](https://github.com/EloiStree/xomi) and/or [S2W](https://github.com/eloistree/s2w) )
+  - None ( Window Software [XOMI](https://github.com/EloiStree/xomi) and/or [S2W](https://github.com/eloistree/s2w) )
 
 ----------
 
