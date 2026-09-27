@@ -1,3 +1,8 @@
+Information on what is the steam frame: [here](https://github.com/EloiStree/HelloSteamFrame)
+
+----------
+
+
 # Play Game From Steam Frame
 
 Let's play XInput game from Steam Frame
