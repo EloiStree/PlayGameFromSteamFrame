@@ -1,5 +1,17 @@
 Information on what is the steam frame: [here](https://github.com/EloiStree/HelloSteamFrame)
 
+[<img width="1226" height="1058" alt="image" src="https://github.com/user-attachments/assets/704e85c6-9c4c-4ab1-8e29-684942838c55" />](https://github.com/EloiStree/HelloSteamFrame)   
+https://github.com/EloiStree/HelloSteamFrame  
+
+⚠️ To follow this workshop you need:
+- A Steam Frame
+- A compute to control ( Window or Steam OS )
+- One of those to simulate input:
+  - ESP32
+  - Raspberry Pi Pico Wifi
+  - Arduino Leonardo (with HC06 or HC10)
+  - None ( use Software [XOMI](https://github.com/EloiStree/xomi) and/or [S2W](https://github.com/eloistree/s2w) )
+
 ----------
 
 
