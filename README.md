@@ -12,6 +12,13 @@ https://github.com/EloiStree/HelloSteamFrame
   - Arduino Leonardo (with HC06 or HC10)
   - None ( Window Software [XOMI](https://github.com/EloiStree/xomi) and/or [S2W](https://github.com/eloistree/s2w) )
 
+
+
+----------
+
+**Fun Goal:** Have fun playing game with code and remapping input while learning code in a fun/educative way.     
+**Professional Objective:** Learn to a first language in aim to be a game developer or quality assurance tester.       
+ 
 ----------
 
 
