@@ -16,8 +16,9 @@ https://github.com/EloiStree/HelloSteamFrame
 
 ----------
 
-**Fun Goal:** Have fun playing game with code and remapping input while learning code in a fun/educative way.     
-**Professional Objective:** Learn to a first language in aim to be a game developer or quality assurance tester.       
+**Fun Goal:** Have fun playing game with code and remapping input while learning code in a fun/educative way.       
+**Professional Objective:** Learn to a first language in aim to be a game developer or quality assurance tester.      
+**Caritative objective:** Create tool for player with disability to play game.   
  
 ----------
 
